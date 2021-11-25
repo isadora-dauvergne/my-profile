@@ -1,0 +1,86 @@
+body {
+	background-color: #FAF0E6		;
+	color: #191610	;
+	font-family: Helvetica, sans-serif;
+	font-size: 17px;
+
+}
+h1 {
+	color: #40434E;
+	font-family: 'Roboto', sans-serif;
+	font-size: 45px;
+	font-weight: 400;
+	letter-spacing: 1px;
+}
+
+h2 {
+	color: #40434E;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	font-weight: 500;
+	letter-spacing: 1px   
+	 }
+a{
+	text-decoration: none;
+	color : #e69b6c;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	padding: 2px 1px 0
+}
+a:hover{
+	color: #a76726;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+
+	max-width: 100%;
+	height: auto;
+}
+
+p{
+	padding: 10px;
+}
+
+
+
+/*custome design with classes*/
+
+.container {
+	width : 700px;
+	margin : 500px auto;
+}
+	
+	
+.card-white{
+	background-color:#FFFFFF	;
+	paddling: 50px;
+	box-shadow: 10px 5px 5px rgba(128,128,128,0.1);
+	margin: 20px 0px;
+	text-align: center;
+
+}
+
+.img-circle {
+	border-radius: 100px;
+}
+
+.btn-blue {
+	background-color:#FFDEAD	;
+	color: #FFFFFF;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px
+}
+
+
